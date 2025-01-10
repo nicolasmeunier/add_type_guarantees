@@ -1,4 +1,4 @@
-import { addTypeGuarantees } from './addTypeGuarantees';
+import { addTypeGuarantees } from '../index';
 
 type MyQueryResultType = {
   field1: string | null;
